@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0dd654e8-7968-4e74-b133-0187db36d7dd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PythonAutomation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PythonAutomation.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/Scripts/_overlapped.pyd" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/Scripts/_overlapped.pyd" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeProgram/Starpattern.py" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeProgram/Starpattern.py" afterDir="false" />
-    </list>
+    <list default="true" id="0dd654e8-7968-4e74-b133-0187db36d7dd" name="Changes" comment="adding a new file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,15 +36,20 @@
   "associatedIndex": 1
 }]]></component>
   <component name="ProjectId" id="30Jiw6d4xY3zEYHM02HZoRNO4r4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
@@ -68,6 +68,51 @@
       <option name="presentableId" value="Default" />
       <updated>1753352311937</updated>
     </task>
+    <task id="LOCAL-00001" summary="adding a new file">
+      <option name="closed" value="true" />
+      <created>1753352731442</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753352731442</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding a new file">
+      <option name="closed" value="true" />
+      <created>1753352799362</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753352799362</updated>
+    </task>
+    <task id="LOCAL-00003" summary="adding a new file">
+      <option name="closed" value="true" />
+      <created>1753352866599</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753352866599</updated>
+    </task>
+    <task id="LOCAL-00004" summary="adding a new file">
+      <option name="closed" value="true" />
+      <created>1753352920613</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753352920613</updated>
+    </task>
+    <task id="LOCAL-00005" summary="adding a new file">
+      <option name="closed" value="true" />
+      <created>1753353052804</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753353052804</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="adding a new file" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding a new file" />
   </component>
 </project>
